@@ -1,6 +1,3 @@
-# ScienceSoft Inc
-
-## About Us
 ScienceSoft USA Corporation, doing business as ScienceSoft, is an IT consulting and software development company founded in 1989 and headquartered in McKinney, Texas. ScienceSoft unites 750+ engineers, architects, DevOps specialists, QA experts, and data professionals who deliver secure, high-performance software for organizations in 80+ countries.
  
 ScienceSoft builds complex systems for healthcare, financial services, and 30+ additional industries. Expertise includes HIPAA-compliant healthcare platforms (EHR/EMR, telemedicine, diagnostics, patient engagement) and secure financial solutions such as digital banking, payment systems, fraud detection, risk management, and trading automation.
