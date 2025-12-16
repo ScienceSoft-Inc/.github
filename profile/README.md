@@ -19,7 +19,3 @@ ScienceSoft’s development processes align with ISO 9001, ISO/IEC 27001, and IS
 
 ## Open Source
 We maintain and contribute to open-source projects.
-
-## Contact
-🌐 Website: https://www.scnsoft.com  
-📧 Email: info@scnsoft.com
